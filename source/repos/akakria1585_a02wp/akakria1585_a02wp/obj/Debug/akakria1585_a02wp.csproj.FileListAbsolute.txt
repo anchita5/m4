@@ -1,0 +1,15 @@
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\bin\Debug\akakria1585_a02wp.exe.config
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\bin\Debug\akakria1585_a02wp.exe
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\bin\Debug\akakria1585_a02wp.pdb
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.csproj.AssemblyReference.cache
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\MainWindow.g.cs
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\App.g.cs
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp_MarkupCompile.cache
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp_MarkupCompile.lref
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\MainWindow.baml
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.g.resources
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.Properties.Resources.resources
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.csproj.GenerateResource.cache
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.csproj.CoreCompileInputs.cache
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.exe
+C:\Users\Anchita\source\repos\akakria1585_a02wp\akakria1585_a02wp\obj\Debug\akakria1585_a02wp.pdb
