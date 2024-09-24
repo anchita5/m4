@@ -1,0 +1,15 @@
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\bin\Debug\net8.0\akakria1585_A01wp.exe
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\bin\Debug\net8.0\akakria1585_A01wp.deps.json
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\bin\Debug\net8.0\akakria1585_A01wp.runtimeconfig.json
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\bin\Debug\net8.0\akakria1585_A01wp.dll
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\bin\Debug\net8.0\akakria1585_A01wp.pdb
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.AssemblyInfoInputs.cache
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.AssemblyInfo.cs
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.csproj.CoreCompileInputs.cache
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.sourcelink.json
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.dll
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\refint\akakria1585_A01wp.dll
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.pdb
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\akakria1585_A01wp.genruntimeconfig.cache
+C:\Users\Anchita\source\repos\akakria1585_A01wp\akakria1585_A01wp\obj\Debug\net8.0\ref\akakria1585_A01wp.dll

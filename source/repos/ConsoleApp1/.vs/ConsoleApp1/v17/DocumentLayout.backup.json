@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anchita\\source\\repos\\consoleapp1\\consoleapp1\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anchita\\source\\repos\\consoleapp1\\consoleapp1\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anchita\\source\\repos\\consoleapp1\\consoleapp1\\cereal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cereal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anchita\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\anchita\\source\\repos\\consoleapp1\\consoleapp1\\produce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469C26A3-8320-421B-B236-AED3508EE45E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\produce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainprogram.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\mainprogram.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\mainprogram.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\mainprogram.cs",
+              "RelativeToolTip": "ConsoleApp1\\mainprogram.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:50:19.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "diary.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\diary.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\diary.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\diary.cs",
+              "RelativeToolTip": "ConsoleApp1\\diary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:49:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "produce.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\produce.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\produce.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\produce.cs",
+              "RelativeToolTip": "ConsoleApp1\\produce.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:44:01.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cereal.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\cereal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\cereal.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\cereal.cs",
+              "RelativeToolTip": "ConsoleApp1\\cereal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:39:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:14:14.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

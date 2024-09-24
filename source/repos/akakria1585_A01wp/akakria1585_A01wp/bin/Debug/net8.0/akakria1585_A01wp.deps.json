@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "akakria1585_A01wp/1.0.0": {
+        "runtime": {
+          "akakria1585_A01wp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "akakria1585_A01wp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

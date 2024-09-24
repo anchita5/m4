@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|c:\\users\\anchita\\source\\repos\\akakria1585_a01wp\\akakria1585_a01wp\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|solutionrelative:akakria1585_a01wp\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|c:\\users\\anchita\\source\\repos\\akakria1585_a01wp\\akakria1585_a01wp\\cereal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|solutionrelative:akakria1585_a01wp\\cereal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|c:\\users\\anchita\\source\\repos\\akakria1585_a01wp\\akakria1585_a01wp\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|solutionrelative:akakria1585_a01wp\\diary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|c:\\users\\anchita\\source\\repos\\akakria1585_a01wp\\akakria1585_a01wp\\produce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|solutionrelative:akakria1585_a01wp\\produce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|c:\\users\\anchita\\source\\repos\\akakria1585_a01wp\\akakria1585_a01wp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31977188-1F4B-40B6-B6CD-5ADEEE2BA300}|akakria1585_A01wp\\akakria1585_A01wp.csproj|solutionrelative:akakria1585_a01wp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\product.cs",
+              "RelativeDocumentMoniker": "akakria1585_A01wp\\product.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\product.cs",
+              "RelativeToolTip": "akakria1585_A01wp\\product.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:13:12.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "produce.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\produce.cs",
+              "RelativeDocumentMoniker": "akakria1585_A01wp\\produce.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\produce.cs",
+              "RelativeToolTip": "akakria1585_A01wp\\produce.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:48:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "diary.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\diary.cs",
+              "RelativeDocumentMoniker": "akakria1585_A01wp\\diary.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\diary.cs",
+              "RelativeToolTip": "akakria1585_A01wp\\diary.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:48:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cereal.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\cereal.cs",
+              "RelativeDocumentMoniker": "akakria1585_A01wp\\cereal.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\cereal.cs",
+              "RelativeToolTip": "akakria1585_A01wp\\cereal.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowCQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:47:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainprogram.cs",
+              "DocumentMoniker": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\mainprogram.cs",
+              "RelativeDocumentMoniker": "akakria1585_A01wp\\mainprogram.cs",
+              "ToolTip": "C:\\Users\\Anchita\\source\\repos\\akakria1585_A01wp\\akakria1585_A01wp\\mainprogram.cs",
+              "RelativeToolTip": "akakria1585_A01wp\\mainprogram.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T02:46:24.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
